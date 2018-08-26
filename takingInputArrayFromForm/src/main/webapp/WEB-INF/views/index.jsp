@@ -24,8 +24,7 @@
 	<form enctype="multipart/form-data" action="" method="post">
 		Number of members:<input type="text" id="member" name="member" value=""><br />
 		<button id="btn" onclick="addinputFields()">Button</button>
-		<div id="container" />
 	</form>
-
+	<a href="goToRegistrationPage">Go to Registration Page</a>
 </body>
 </html>
